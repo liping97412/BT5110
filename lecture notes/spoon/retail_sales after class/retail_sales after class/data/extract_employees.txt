@@ -1,0 +1,60 @@
+employee_code	gender	name	address	NRIC	tel_mobile	tel_home	Date joined	date of birth
+05457	male	Adam Hazirah	"3 Seletar Park, #12-36"	S6818385W	9428-3102	6579-0943	11-Jun-2006	19-Apr-1981
+04428	female	Adelia To	"Blk 207 Serangoon Gardens Street 24, #10-15"	S4273119F	9612-6814	6633-0671	28-Aug-2009	5-Jan-1977
+05877	female	Adeline Ong	"Blk 20 Aljunied Street 29, #04-21"	S2842623F	9325-9377	6471-9206	18-May-2003	21-Oct-1987
+01382	male	Adrian Yong Weiming	37 Bartley Circle	S9434282T	8732-2313	6709-2412	2-Oct-2006	16-Dec-1985
+00478	male	Ahmad Saat	"Blk 24 Boon Lay Street 29, #17-33"	S1555946P	8937-5218	6161-9080	11-Feb-2005	2-Apr-1989
+00990	female	Anabelle Wee	1 Jalan Terang Bulan	S8296376K	9709-3080	6534-8384	16-Apr-2005	25-Mar-1979
+00392	female	Ava Koh	"Blk 43 Lorong 7 Telok Blangah, #04-08"	S0583164R	9579-1735	6063-8965	9-May-2006	14-Dec-1979
+00189	female	Beatrice Wee	77 Mandai Green	S2877327T	9993-7279	6111-6437	6-Nov-2003	7-Jan-1982
+11437	female	Bernice Quek	"4 Hillview Court, #05-39"	S1525342C	9559-7410	6586-4720	12-May-2007	8-Dec-1992
+2608	male	Bernie Kwok	"Blk 207 Geylang East Street 84, #03-34"	S2593754G	9628-7759	6406-2171	22-Aug-2004	30-Dec-1985
+00969	female	Betty Ee	9 Bukit Timah View	S1196675X	9909-6175	6596-9768	20-Jul-2005	14-Aug-1985
+04687	male	Boris Tan	13 Jalan Ulu Siglap	G9955067I	9885-3712	6933-4997	6-Mar-2007	12-Apr-1983
+03559	female	Burairah Kadir	"Blk 164 Lorong 3 Woodlands, #14-23"	S7824441I	8924-0256	6380-6517	22-Apr-2005	10-Aug-1984
+01377	female	Cassandra Chang	2 Tiong Bahru Court	S0997215H	9316-1532	6735-4715	14-Aug-2008	16-Oct-1983
+2126	female	Cassandra Chia	"Blk 420 Sengkang Street 12, #17-09"	S0531589Q	9660-9702	6697-4738	16-Jun-2001	8-Oct-1981
+2112	female	Catherine Tay	"Blk 155 Geylang East Street 88, #18-42"	S6320193K	9876-7340	6781-8618	8-Dec-2006	15-Apr-1985
+02517	female	Cathy Pang	"44 Rochor Center, #18-12"	S4321919L	8471-3854	6340-6341	10-Apr-2002	3-Apr-1980
+2158	female	Charmaine  Zhou	21 Punggol Walk	S7297600X	9868-0904	6061-9800	2-Jan-2007	19-Jul-1982
+04982	male	Chin JK Taylor	"Blk 10 Geylang East Street 77, #15-18"	S2410992A	8334-6686	6500-7521	6-Sep-2004	1-Jun-1985
+03961	female	Chloe Tan	"Blk 413 Pasir Ris Street 26, #06-02"	S9503833N	9775-4953	6114-4409	11-Nov-2002	19-Nov-1984
+06090	male	Clifford Lim	72 Jalan Mas Kuning	S4152299C	9680-4803	6986-6037	21-Apr-2005	25-Nov-1975
+00868	female	Cynthia Wee	"Blk 30 Geylang East Street 76, #09-03"	S0495140R	9621-2303	6585-1845	22-Mar-2003	15-Mar-1984
+04835	male	Dan Chew	73 Jalan Pergam	S6498501N	9062-6202	6026-6333	4-Sep-2002	6-Mar-1985
+05954	male	Danish Othman	74 Tanglin Avenue North	S9834886H	9407-9519	6556-9282	6-Oct-2004	10-Mar-1988
+04320	male	Darian Loh	"Blk 442 Lorong 18 Novena, #11-19"	S3972902H	9774-5316	6699-8586	3-Mar-2000	14-Dec-1983
+02165	female	Diana Leow	"1 Bukit Merah View, #05-12"	S6277756J	9947-5493	6796-8699	21-Apr-2008	1-Apr-1985
+03959	female	Doris Tan	"45 Sennett Road, #05-39"	S3012230M	8598-5754	6784-5597	3-Jan-2002	26-Sep-1982
+00410	female	Dorothy Eng	"Blk 19 Bukit Merah Street 25, #14-14"	S3245394U	9404-4946	6374-6185	20-Nov-2005	25-Feb-1978
+05985	male	Douglas Lok	26 Queenstown Lane	S6475863N	8629-2994	6973-8190	5-Apr-2008	21-Sep-1979
+05721	male	Douglas Yap	"Blk 19 Jurong Central Street 39, #02-31"	S3651212T	9589-9256	6967-0492	1-Aug-2005	2-Mar-1989
+02763	female	Elaina Ling	"Blk 17 Lorong 6 Jurong, #14-11"	S1897996D	9207-2424	6164-2504	21-Mar-2007	21-Apr-1990
+04599	male	Elwin Abisheganaden	"Blk 448 Geylang Street 79, #15-08"	S3455708Z	9417-8175	6056-1445	7-Jan-2004	24-Sep-1987
+00414	female	Estelle Ling	"Blk 19 Hougang Street 20, #07-03"	S4688382F	8826-2150	6525-3020	12-Nov-2002	3-Oct-1973
+06079	female	Farida Mahmood	1 Chong Boon Terrace	S3333309I	9522-5137	6924-3721	25-Sep-2008	23-Apr-1988
+05876	female	Farida Mohamad	1 Serangoon Heights	S0572623F	8622-8085	6168-6624	4-Jul-2001	13-Nov-1970
+9999	male	Felix Tan	4 Jalan Tamban	S6856244M	9950-5125	6151-5833	24-Sep-2005	24-Aug-1981
+7777	male	Garett Gomez	"Blk 359 Lorong 3 Jurong East, #12-20"	S9806338R	9349-1492	6716-7611	3-Aug-2005	4-Nov-1988
+04983	male	Gavin Chang	84 Serangoon Vista	S1345891D	9103-0522	6659-2617	13-Mar-2006	18-May-1987
+1383	male	George Goh	"Blk 156 Geylang East Street 89, #02-36"	S0857243X	9149-6224	6104-5212	10-Mar-2005	28-Mar-1981
+2908	female	Georgina Guo	9 Sengkang Walk	S3942802Q	9012-9541	6955-8378	9-Sep-2004	8-Jun-1981
+01853	male	Gilbert Khoo Kai Wen	36 Tengah Heights	S1935493N	8406-0110	6495-3460	23-Apr-2008	11-Jul-1973
+05547	female	Gladys Woo	"Blk 298 Bukit Panjang Street 82, #14-04"	S9562291L	8523-6095	6306-2924	26-May-2008	25-Jun-1985
+03994	female	Hafsah Nordin	60 Kembangan Vista	S6214623N	9710-4550	6821-0678	9-May-2002	23-Oct-1984
+1974	male	Hans Thumboo	77 Admiralty Center	S9847577X	9178-0317	6197-5389	22-Sep-2008	16-Dec-1985
+01002	male	Harry Teo	4 Bedok Circle	S6576948C	9187-6320	6818-3935	24-Feb-2008	1-Apr-1979
+00556	male	Herman Sun	1 Serangoon Gardens Walk	S7283116I	9910-4232	6298-7984	14-Oct-2003	18-Jan-1981
+03960	female	Ho Jing Hui	"Blk 38 Clementi Street 16, #08-15"	S9793319G	8401-1229	6925-9616	3-Aug-2006	17-Mar-1985
+04681	male	Jarred Leong	80 Tanglin Hill	S4978602U	9335-2933	6759-5464	7-Sep-2001	31-Mar-1983
+05549	female	Jeannie Chua	35 Jalan Peradun	S2996055W	9101-2870	6328-0566	9-Jul-2001	10-Sep-1977
+05329	male	Jeff  Soh	70 Jalan Bunga Rampai	S4303861I	9731-6710	6709-5037	19-Jan-2006	18-Apr-1983
+05859	male	Joesph Toy	"Blk 204 Jurong East Street 80, #01-26"	S5494327U	8649-0858	6898-6164	16-May-2008	26-Mar-1989
+05447	female	Julia Chee	"Blk 14 Aljunied Street 37, #17-14"	T1675252P	9575-2217	6150-4448	30-Mar-2002	23-Dec-1981
+01396	female	Julia Guo	11 Jalan Kechil	S6729744G	8343-2842	6376-0046	28-Dec-2004	7-Jun-1984
+01400	male	Kaden Chang	"Blk 120 Serangoon Gardens Street 81, #15-02"	S4798725X	9458-6165	6377-7226	22-Sep-2003	11-Oct-1982
+03417	male	Kaden Ramanathan	8 Jalan Besut	S6564555H	8611-0679	6032-2046	7-Apr-2004	30-Mar-1986
+3256	male	Khalish Nordin	"Blk 16 Lorong 6 Hougang, #04-12"	S3825474H	9631-5919	6183-8163	21-Mar-2008	15-Apr-1983
+04836	female	Kim Woo	3 Bukit Panjang Court	S8489754W	9268-0090	6761-2012	1-Jun-2007	29-Sep-1981
+04990	male	Leng Koon Tan Patrick	38 Jalan Mawar	S8868478M	9293-6425	6764-1662	12-May-2010	5-Oct-1980
+1457	female	Leow Eng Yeo	16 Jalan Minggu	S7370420L	9466-9908	6230-6720	28-Jan-2002	28-May-1989
